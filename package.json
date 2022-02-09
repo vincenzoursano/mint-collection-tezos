@@ -1,0 +1,24 @@
+{
+  "name": "mint-collection-objkt.com",
+  "version": "0.0.1",
+  "description": "Minting collecetion on NFTs on Objkt.com with Kukai wallet.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-specifier-resolution=node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincenzoursano/mint-collection-objkt.com.git"
+  },
+  "author": "Vincenzo Ursano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vincenzoursano/mint-collection-objkt.com/issues"
+  },
+  "homepage": "https://github.com/vincenzoursano/mint-collection-objkt.com#readme",
+  "dependencies": {
+    "puppeteer-core": "^13.2.0"
+  }
+}
